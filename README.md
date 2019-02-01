@@ -8,7 +8,7 @@ Est utilisé par le projet laravel [suivant](https://github.com/Poulpynateur/A2-
 * [Composer](https://getcomposer.org/) - Gestion des dépendances
 * [Node.js](https://nodejs.org/en/) - Framework web JavaScript
 
-## Auteurs
+## Auteur
 
 **Loïc BOLLENBACH** - *API node.js* - [Tank-White](https://github.com/Tank-White)
 
